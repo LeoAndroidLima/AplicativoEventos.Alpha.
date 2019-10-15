@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265535521844",
+    "firebase_url": "https://maetonarave.firebaseio.com",
+    "project_id": "maetonarave",
+    "storage_bucket": "maetonarave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265535521844:android:c7ee17adf2b55883",
+        "android_client_info": {
+          "package_name": "com.example.leonardodruid.metonarave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265535521844-r5rp2vmbbc39kvuscj6aeq0lgcna4uak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leonardodruid.metonarave",
+            "certificate_hash": "94804b31bf378804b63c579882bb41cef33565c6"
+          }
+        },
+        {
+          "client_id": "265535521844-bgdhhqsl7qpi85fbna3i6ej1nc2ac6gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ijdn0-G1P1RneN0prOmkJBqUaiTwMqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265535521844-bgdhhqsl7qpi85fbna3i6ej1nc2ac6gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

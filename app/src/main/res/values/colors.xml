@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    
+    
+    <color name="colorPreto">#000000</color>
+    <color name="colorAmarelin">#E2FFEB3B</color>
+    <color name="colorBranco">#FFFFFF</color>
+    <color name="colorAzulzin">#FF0024FF</color>
+    <color name="colorTransparente">#77000000</color>
+    <color name="colorFacebook">#3b5998</color>
+    <color name="colorGoogle">#dd4b39</color>
+    <color name="colorPrimeira">#390000</color>
+    <color name="ParaBackground">#54000000</color>
+    <color name="opcao2background">#7A000000</color>
+    <color name="background">#54000000</color>
+    <color name="talvezBackground">#7A000000</color>
+
+
+
+</resources>

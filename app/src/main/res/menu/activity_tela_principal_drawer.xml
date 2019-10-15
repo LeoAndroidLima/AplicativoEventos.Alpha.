@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_inicio_24dp"
+            android:title="Festas" />
+        <item
+            android:id="@+id/nav_djs"
+            android:icon="@drawable/ic_headset_djs_24dp"
+            android:title="Djs" />
+        <item
+            android:id="@+id/nav_parceiros"
+            android:icon="@drawable/ic_people_parceiros_24dp"
+            android:title="Melhores conteúdos" />
+
+    </group>
+
+    <item android:title="Outros">
+        <menu>
+            <item
+                android:id="@+id/nav_Compartilhar_Aplicativo"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartilhar com um amigo" />
+            <item
+                android:id="@+id/nav_SobreNos"
+                android:icon="@drawable/ic_info_sobre_nos_24dp"
+                android:title="Sobre Nós" />
+            <item
+                android:id="@+id/nav_Sair_Aplicativo"
+                android:icon="@drawable/ic_sair_preto_24dp"
+                android:title="Sair" />
+        </menu>
+    </item>
+
+</menu>
